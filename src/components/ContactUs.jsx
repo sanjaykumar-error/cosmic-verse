@@ -61,7 +61,7 @@ export default function ContactUs() {
                       href="tel:8999020627"
                       className="block hover:text-white transition duration-300"
                     >
-                      +91 8237006990
+                      +91 8999020627
                     </a>
                   </div>
                 </h2>
